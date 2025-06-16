@@ -1,0 +1,2 @@
+# Amazon
+Developed a replica of Amazon's home page using HTML and CSS to strengthen frontend development skills. The project focuses on layout design, navigation and UI aesthetics based on real-world e-commerce standards. 
